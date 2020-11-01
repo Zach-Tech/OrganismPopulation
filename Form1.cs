@@ -60,6 +60,8 @@ namespace Zachary_Childers_CPT_185_Lab_5
                     }
                 }
                 else { MessageBox.Show("Hey plz try again my dude"); }
+                //Actually forgot that I left this in
+                //It was uploaded to my professor like that lmao
         }
 
         private void clr_Click(object sender, EventArgs e)
